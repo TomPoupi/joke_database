@@ -22,9 +22,15 @@ function getRandom(arr, n) {
 
 app.get('/jokes/:category/:amount', (req, res) => {
   const { category, amount } = req.params;
+
   const jokes = data.jokes.filter(joke => joke.category === category);
   const randomJokes = getRandom(jokes, amount);
-  res.json(randomJokes);
+  result = {
+    error: false,
+    amount: amount,
+    jokes: randomJokes
+  }
+  res.json(result);
 });
 
 const port = 3000;
