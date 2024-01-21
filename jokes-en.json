@@ -3737,6 +3737,276 @@
             },
             "safe": true,
             "id": 319
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 178,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I'll never forget my Granddad's last words to me just before he died. \"Are you still holding the ladder?\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 208,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Me and my Jewish friend were eating lunch and I farted. He got mad so I said \"cmon man a little gas never killed anyone\".",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 103,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My little daughter came to me all excited, saying \"Daddy! Daddy! Guess how old I'll be in June!\"\n\"Oh I don't know princess, why don't you tell me?\" I said. She gave me a huge smile and held up four fingers.\nIt's now three hours later, police have joined in and she still won't say where she got them.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 165,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I was going to tell a dead baby joke. But I decided to abort.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 207,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I have a fish that can breakdance! Only for 20 seconds though, and only once.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 237,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I hate double standards. Burn a body at a crematorium, you're \"being a respectful friend.\" Do it at home and you're \"destroying evidence.\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "safe": false,
+            "id": 274
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 138,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I didn't vaccinate my 10 kids and the one that survived is fine!",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 96,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Dark humor is like food, not everyone gets it.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 162,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Nowadays people are so sensitive, you can't even say \"black paint\" anymore.\nInstead, you have to say \"Jamal, please paint the fence\".",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 133,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Hey girl are you a school? Because I want to shoot some kids up inside of you.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "safe": false,
+            "id": 269
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, \"What am I supposed to do with two dead dogs?\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": false,
+            "id": 275
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 152,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": true,
+                "explicit": true
+            },
+            "id": 228,
+            "safe": false
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "I was walking down the street and saw a black guy carrying a TV. I thought \"that looks like mine\". Then I remembered that mine is at home shining my shoes.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": true,
+                "explicit": true
+            },
+            "id": 90001,
+            "safe": false
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": true,
+            "id": 90002
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "I wanted to made a joke about IPV4, but the good ones were all already exhausted.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 90003,
+            "safe": true
         }
     ]
 }
