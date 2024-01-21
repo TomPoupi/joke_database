@@ -23,7 +23,7 @@ function getRandom(arr, n) {
 app.get('/jokes/:category/:amount', (req, res) => {
   const { category, amount } = req.params;
 
-  const jokes = data.jokes.filter(joke => joke.category === category);
+  const jokes = data.jokes.filter(joke => joke.category === category && joke.type === 'single'); 
   const randomJokes = getRandom(jokes, amount);
   result = {
     error: false,
